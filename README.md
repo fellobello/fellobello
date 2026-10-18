@@ -10,6 +10,7 @@ with some math in them.
 
 - **Self-hosted home server.** An old ThinkPad running Docker services behind Tailscale and
   Caddy, with zero open router ports and nightly backups.
+  [Repo](https://github.com/fellobello/homeserver) ·
   [Write-up](https://fellobello.github.io/projects/home-server.html)
 - **Study Desk.** An offline flashcard app with four quiz modes, CSV decks and progress
   tracking. [Repo](https://github.com/fellobello/flashcard-study-app) ·
