@@ -1,6 +1,6 @@
 ### Hi, I'm Steven
 
-Computer Science student at Arizona State University Online (graduating May 2027), based in Central CA. I love math and I'm fascinated by dynamic systems, chaos, and information science . #1 Javascript hater.
+Computer Science student at Arizona State University Online (graduating May 2027), based in central California. I love math and I'm fascinated by dynamic systems, chaos, and information science . #1 Javascript hater.
 
 **Portfolio:** [fellobello.github.io](https://fellobello.github.io)
 
